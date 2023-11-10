@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mjgiardino.github.io//sitemap.xml
+Sitemap: https://mjgiardino.github.io/sitemap.xml
