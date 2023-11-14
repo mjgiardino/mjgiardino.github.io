@@ -30,7 +30,7 @@ Relatedly, I think a lot about the social and political implications of the tech
 
 I'm also an external lecturer at ETH Zürich, teaching seminars on [Heterogeneous Computing](https://systems.ethz.ch/education/courses/2023-spring/heterogeneous-systems-seminar.html), [Computing Platforms](https://systems.ethz.ch/education/courses/2023-spring/ComputingPlatforms.html), and [Hardware Acceleration for Data Processing](https://systems.ethz.ch/education/courses/2023-autumn-semester/hardware-acceleration-for-data-processing.html). 
 
-Before joining Huawei, I spent three and a half fantastic years with the [Systems Group](https://systems.ethz.ch) supervised by Timothy Roscoe, primarily working on the [Enzian Project](https://enzian.systems). 
+Before joining Huawei, I spent three and a half fantastic years with the [Systems Group](https://systems.ethz.ch) at [ETH Zürich](https://ethz.ch) supervised by Timothy Roscoe, primarily working on the [Enzian Project](https://enzian.systems). 
 It was here I began researching cloud systems, with a particular interest in serverless/function-as-a-service. 
 I was also very fortunate to supervise many incredible bachelors' and masters' students.
 
